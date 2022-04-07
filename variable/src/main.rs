@@ -1,3 +1,4 @@
+#![allow(unused_doc_comments)]
 fn main() {
     /**
      * 不可变变量和可变变量
